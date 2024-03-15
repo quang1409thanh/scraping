@@ -91,7 +91,7 @@ function clearDirectory(directory) {
 const outputDirectory = "rs";
 
 clearDirectory(outputDirectory);
-for (let year = 1992; year <= 1992; year++) {
+for (let year = 1992; year <= 2023; year++) {
   const filename = `urls/${year}data.txt`;
   const csvFilePath = `${outputDirectory}/data${year}.csv`;
   ensureDirectoryExistence(csvFilePath);
