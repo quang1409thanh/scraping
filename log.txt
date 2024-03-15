@@ -1,0 +1,129 @@
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2010.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data1996.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data1995.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2015.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2000.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2013.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data1997.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2019.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data1994.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2008.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data1993.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2012.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2022.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2018.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2003.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2021.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data1992.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2017.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2005.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2002.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2023.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2011.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2004.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2001.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2016.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2006.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2014.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data1998.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2020.csv:Cannot read properties of undefined (reading '8')
+Đã xảy ra lỗi khi lấy dữ liệu cho mục 0 cua nam rs/data2007.csv:Cannot read properties of undefined (reading '8')
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/1657121 đã được ghi vào file CSV rs/data2018.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/3954788 đã được ghi vào file CSV rs/data2021.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/695394 đã được ghi vào file CSV rs/data1995.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/1638050 đã được ghi vào file CSV rs/data2008.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/284612 đã được ghi vào file CSV rs/data1996.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/765084 đã được ghi vào file CSV rs/data2013.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/283556 đã được ghi vào file CSV rs/data1993.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/284955 đã được ghi vào file CSV rs/data1997.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/718405 đã được ghi vào file CSV rs/data2010.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/1471017 đã được ghi vào file CSV rs/data2016.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/283683 đã được ghi vào file CSV rs/data1994.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/464314 đã được ghi vào file CSV rs/data2001.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/820133 đã được ghi vào file CSV rs/data2014.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/538364 đã được ghi vào file CSV rs/data2004.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/740420 đã được ghi vào file CSV rs/data2012.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/482541 đã được ghi vào file CSV rs/data2002.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/827243 đã được ghi vào file CSV rs/data2015.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/4031242 đã được ghi vào file CSV rs/data2023.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/283166 đã được ghi vào file CSV rs/data1992.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3897078 đã được ghi vào file CSV rs/data2020.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/429936 đã được ghi vào file CSV rs/data2000.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/563982 đã được ghi vào file CSV rs/data2005.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/1493376 đã được ghi vào file CSV rs/data2011.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/1479518 đã được ghi vào file CSV rs/data2017.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3841023 đã được ghi vào file CSV rs/data2019.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/3999186 đã được ghi vào file CSV rs/data2022.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/509429 đã được ghi vào file CSV rs/data2003.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/624717 đã được ghi vào file CSV rs/data2007.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/695393 đã được ghi vào file CSV rs/data1995.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/1657120 đã được ghi vào file CSV rs/data2018.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/426078 đã được ghi vào file CSV rs/data1999.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3952171 đã được ghi vào file CSV rs/data2021.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/694928 đã được ghi vào file CSV rs/data2009.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/284954 đã được ghi vào file CSV rs/data1997.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/283682 đã được ghi vào file CSV rs/data1994.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/427247 đã được ghi vào file CSV rs/data1998.csv dòng 0.
+Dữ liệu từ URL https://digitallibrary.un.org/record/464310 đã được ghi vào file CSV rs/data2001.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/284611 đã được ghi vào file CSV rs/data1996.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/482539 đã được ghi vào file CSV rs/data2002.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/820132 đã được ghi vào file CSV rs/data2014.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/538295 đã được ghi vào file CSV rs/data2004.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/4031240 đã được ghi vào file CSV rs/data2023.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/429858 đã được ghi vào file CSV rs/data2000.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/701638 đã được ghi vào file CSV rs/data2010.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/644767 đã được ghi vào file CSV rs/data2008.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/1479517 đã được ghi vào file CSV rs/data2017.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/694915 đã được ghi vào file CSV rs/data2006.csv dòng 0.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/855235 đã được ghi vào file CSV rs/data2016.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/563980 đã được ghi vào file CSV rs/data2005.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3841022 đã được ghi vào file CSV rs/data2019.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3897077 đã được ghi vào file CSV rs/data2020.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/282911 đã được ghi vào file CSV rs/data1992.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/283333 đã được ghi vào file CSV rs/data1993.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3999158 đã được ghi vào file CSV rs/data2022.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/724807 đã được ghi vào file CSV rs/data2011.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/695391 đã được ghi vào file CSV rs/data1995.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/765083 đã được ghi vào file CSV rs/data2013.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/509421 đã được ghi vào file CSV rs/data2003.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/827242 đã được ghi vào file CSV rs/data2015.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/615197 đã được ghi vào file CSV rs/data2007.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/1657119 đã được ghi vào file CSV rs/data2018.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/740419 đã được ghi vào file CSV rs/data2012.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3952170 đã được ghi vào file CSV rs/data2021.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/482538 đã được ghi vào file CSV rs/data2002.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/675477 đã được ghi vào file CSV rs/data2009.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/405168 đã được ghi vào file CSV rs/data1999.csv dòng 1.
+Dữ liệu từ URL https://digitallibrary.un.org/record/284610 đã được ghi vào file CSV rs/data1996.csv dòng 2.
+Dữ liệu từ URL https://digitallibrary.un.org/record/284953 đã được ghi vào file CSV rs/data1997.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/538027 đã được ghi vào file CSV rs/data2004.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/4031236 đã được ghi vào file CSV rs/data2023.csv dòng 2.
+Dữ liệu từ URL https://digitallibrary.un.org/record/283681 đã được ghi vào file CSV rs/data1994.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/820131 đã được ghi vào file CSV rs/data2014.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/855234 đã được ghi vào file CSV rs/data2016.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3841021 đã được ghi vào file CSV rs/data2019.csv dòng 2.
+Dữ liệu từ URL https://digitallibrary.un.org/record/282910 đã được ghi vào file CSV rs/data1992.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3999153 đã được ghi vào file CSV rs/data2022.csv dòng 2.
+Dữ liệu từ URL https://digitallibrary.un.org/record/283332 đã được ghi vào file CSV rs/data1993.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/1470211 đã được ghi vào file CSV rs/data2017.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/827241 đã được ghi vào file CSV rs/data2015.csv dòng 2.
+Dữ liệu từ URL https://digitallibrary.un.org/record/285527 đã được ghi vào file CSV rs/data1998.csv dòng 1.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/644765 đã được ghi vào file CSV rs/data2008.csv dòng 2.
+Dữ liệu từ URL https://digitallibrary.un.org/record/695389 đã được ghi vào file CSV rs/data1995.csv dòng 3.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/455680 đã được ghi vào file CSV rs/data2001.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/701201 đã được ghi vào file CSV rs/data2010.csv dòng 2.
+Dữ liệu từ URL https://digitallibrary.un.org/record/509420 đã được ghi vào file CSV rs/data2003.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/765082 đã được ghi vào file CSV rs/data2013.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/563979 đã được ghi vào file CSV rs/data2005.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/615165 đã được ghi vào file CSV rs/data2007.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/740247 đã được ghi vào file CSV rs/data2012.csv dòng 2.
+Dữ liệu từ URL https://digitallibrary.un.org/record/724755 đã được ghi vào file CSV rs/data2011.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3897076 đã được ghi vào file CSV rs/data2020.csv dòng 2.
+Dữ liệu từ URL https://digitallibrary.un.org/record/429857 đã được ghi vào file CSV rs/data2000.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/3952169 đã được ghi vào file CSV rs/data2021.csv dòng 3.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/674774 đã được ghi vào file CSV rs/data2009.csv dòng 2.
+Dữ liệu từ URL https://digitallibrary.un.org/record/404979 đã được ghi vào file CSV rs/data1999.csv dòng 2.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/482537 đã được ghi vào file CSV rs/data2002.csv dòng 3.
+Dữ liệu từ URL https://digitallibrary.un.org/record/284609 đã được ghi vào file CSV rs/data1996.csv dòng 3.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/538026 đã được ghi vào file CSV rs/data2004.csv dòng 3.
+Dữ liệu v2 từ URL https://digitallibrary.un.org/record/1657118 đã được ghi vào file CSV rs/data2018.csv dòng 3.

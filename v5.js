@@ -3,7 +3,10 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const path = require("path");
 
-async function fetchDataAndWriteToFile(url, item, csvFilePath) {
+// log
+const logFileName = "log.txt";
+
+async function fetchDataAndWriteToFile(url, index, csvFilePath) {
   try {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
@@ -16,36 +19,40 @@ async function fetchDataAndWriteToFile(url, item, csvFilePath) {
     const value = ui_check.text();
     var containsNumber = /\d/.test(value);
 
-    if (!containsNumber) {
+    const getDataFromNodes = (nodes) => {
       const data = [];
-
-      for (const node of ui.childNodes) {
+      for (const node of nodes) {
         if (node.nodeType === 3) {
           data.push(node.data);
         }
       }
+      return data.join(",");
+    };
 
-      const rowData = data.join(",");
-      await fs.promises.appendFile(csvFilePath, `${url},${rowData}\n`);
-      console.log(`Dữ liệu từ URL ${url} đã được ghi vào file CSV.`);
-    } else {
-      const data = [];
-
-      for (const node of uiv2.childNodes) {
-        if (node.nodeType === 3) {
-          data.push(node.data);
-        }
-      }
-
-      const rowData = data.join(",");
-      await fs.promises.appendFile(csvFilePath, `${url},${rowData}\n`);
-      console.log(`Dữ liệu v2 từ URL ${url} đã được ghi vào file CSV.`);
-    }
-  } catch (error) {
-    console.error(
-      `Đã xảy ra lỗi khi lấy dữ liệu cho mục ${item}:`,
-      error.message
+    const data = getDataFromNodes(
+      !containsNumber ? ui.childNodes : uiv2.childNodes
     );
+    const messagePrefix = !containsNumber ? " v1" : " v2";
+
+    await fs.promises.appendFile(csvFilePath, `${url},${data}\n`);
+    const message = `Dữ liệu${messagePrefix} từ URL ${url} đã được ghi vào file CSV ${csvFilePath} dòng ${index}.\n`;
+    await appendToLogFile(message);
+  } catch (error) {
+    let mess =
+      `Đã xảy ra lỗi khi lấy dữ liệu cho mục ${index} cua nam ${csvFilePath}:` +
+      error.message +
+      "\n";
+    await appendToLogFile(mess);
+    console.error();
+  }
+}
+
+async function appendToLogFile(message) {
+  try {
+    await fs.promises.appendFile(logFileName, message);
+    console.log("Thông điệp đã được ghi vào file:", logFileName);
+  } catch (err) {
+    console.error("Đã xảy ra lỗi khi ghi vào file:", err);
   }
 }
 
@@ -57,9 +64,8 @@ async function readDataFromFile(filename, csvFilePath) {
     for (let index = 0; index < dataArray.length; index++) {
       const item = dataArray[index];
       const url = `https://digitallibrary.un.org/record/${item}`;
-      console.log(url, index);
       await fetchDataAndWriteToFile(url, index, csvFilePath);
-      await sleep(0.1); // Chờ 1 giây trước khi gửi yêu cầu tiếp theo
+      await sleep(1); // Chờ 1 giây trước khi gửi yêu cầu tiếp theo
     }
   } catch (err) {
     console.error("Đã xảy ra lỗi khi đọc tệp:", err);
